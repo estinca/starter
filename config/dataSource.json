@@ -1,0 +1,14 @@
+{
+	"databaseType": "MYSQL",
+	"host": "localhost",
+	"port": "3306",
+	"databaseName": "est_db",
+    "useSSL": false,
+    "serverTimezone": "UTC",
+	"username": "est",
+	"password": "est_pass",
+	"packagesToScan": [
+	
+	]
+ 
+}
